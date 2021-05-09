@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2021 Cristopher Martins <cristopher.martins@gmail.com> -->
+<component type="desktop">
+  <id>com.github.cristopherm.hellovala</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Hello Vala</name>
+  <summary>A simple Vala and GTK + 3 test</summary>
+  <description>
+    <p>A simple Vala and GTK + 3 test</p>
+  </description>
+  <custom>
+  <value key="x-appcenter-color-primary">#603461</value>
+  <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+  <value key="x-appcenter-suggested-price">5</value>
+</custom>
+</component>
